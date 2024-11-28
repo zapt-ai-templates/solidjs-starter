@@ -1,7 +1,7 @@
 {
     "name": "solidjs-vite-tailwind-vercel",
     "version": "1.0.0",
-    "description": "SolidJS app with Vite, Tailwind, and Vercel serverless function",
+    "description": "SolidJS app with Vite, Tailwind",
     "type": "module",
     "scripts": {
         "dev": "vite",
